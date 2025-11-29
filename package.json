@@ -1,0 +1,21 @@
+{
+  "name": "seminar-8-tehnologii-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercitiul6index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon exercitiul6index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
