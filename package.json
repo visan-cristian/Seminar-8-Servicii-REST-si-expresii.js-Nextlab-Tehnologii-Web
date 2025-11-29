@@ -2,10 +2,15 @@
   "name": "seminar-8-tehnologii-web",
   "version": "1.0.0",
   "description": "",
-  "main": "exercitiul6index.js",
+  "main": "exercitiul1app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon exercitiul6index.js"
+    "dev:e1": "nodemon exercitiul1app.js",
+    "dev:e2": "nodemon exercitiul2app.js",
+    "dev:e3": "nodemon exercitiul3app.js",
+    "dev:e4": "nodemon exercitiul4index.js",
+    "dev:e5": "nodemon exercitiul5index.js",
+    "dev:e6": "nodemon exercitiul6index.js"
   },
   "keywords": [],
   "author": "",
